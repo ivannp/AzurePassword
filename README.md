@@ -23,4 +23,4 @@ The glory details
 | /generate/**_len_**/**_upper_**/**_lower_** | **_lower_** (true/false) controls whether to use lower case letters |
 | /generate/**_len_**/**_upper_**/**_lower_**/**_digits_** | **_digits_** (true/false) controls whether to use digits |
 | /generate/**_len_**/**_upper_**/**_lower_**/**_digits_**/**_symbols_** | **_symbols_** (string) controls what symbols to use |
-| /verify/**_password_** | Verifies a given password with respect to the above rules  |
+| /verify/**_password_** | Verifies the password against the above rules  |
