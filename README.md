@@ -1,4 +1,4 @@
-# AzurePassword
+# Azure Password
 A password generator, geared towards Azure.
 
 Available on [Azure](http://azurepassword.azurewebsites.net).
